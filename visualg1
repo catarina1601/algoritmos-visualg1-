@@ -1,0 +1,48 @@
+Algoritmo "semnome"
+// Disciplina   : [Linguagem e Lógica de Programação]
+// Professor   : Antonio Carlos Nicolodi 
+// Descrição   : Aqui você descreve o que o programa faz! (função)
+// Autor(a)    : Nome do(a) aluno(a)
+// Data atual  : 22/08/2022
+Var
+   n1: real
+   n2: real
+   n3: real
+   n4: real
+   n5: real
+   n6: real
+   soma: real
+   sub: real
+   mult: real
+   divisao: real
+
+
+Inicio
+      escreva ("Adicione um número:")
+      leia (n1)
+      escreva ("Adicione um número:")
+      leia (n2)
+      soma <- n1 + n2
+      escreva ("O valor é:")
+      escreval (soma)
+      escreva ("Adicione um número:")
+      leia (n3)
+      escreva ("Adicione um número:")
+      leia (n4)
+      sub <- n3 - n4
+      escreva ("O valor é:")
+      escreval (sub)
+      escreva ("Adicione um número:")
+      leia (n5)
+      escreva ("Adicione um número:")
+      leia (n6)
+      mult <- n5 * n6
+      escreva ("O valor é:")
+      escreval (mult)
+
+      
+      
+      
+
+
+Fimalgoritmo
